@@ -14,7 +14,7 @@ class child extends parent{
 public class override {
 	public static void main(String[] args) {
 		parent p = new parent();
-		child c = new child();
+		parent c = new child();
 
 		p.show();
 		c.show();
