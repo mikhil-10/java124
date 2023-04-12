@@ -6,7 +6,7 @@ class parent {
 	}
 }
 
-class child{
+class child extends parent{
 	void show() {
 		System.out.println("This is the child class");
 	}
