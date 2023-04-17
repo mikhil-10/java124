@@ -19,6 +19,10 @@ class Empl {
 		System.out.println(sal);
 		System.out.println(Address);
 	}
+	@Override
+	public String toString() {
+		return "Empl [Name=" + Name + ", id=" + id + ", sal=" + sal + ", Address=" + Address + "]";
+	}
 }
 
 public class Employee {
