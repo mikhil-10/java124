@@ -8,7 +8,7 @@ class parent {
 
 class child extends parent{
 	void show() {
-		System.out.println("This is the child class");
+		System.out.println(" This is the child class");
 	}
 }
 public class override {
