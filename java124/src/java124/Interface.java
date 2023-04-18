@@ -1,7 +1,7 @@
 package java124;
 
 //Creating interface class by using interface keyword
-//as interface is pure abstract class it contain only abstract method
+//as interface is pure abstract class it contain only abstract method.
 interface M {
 
 	abstract int show();
