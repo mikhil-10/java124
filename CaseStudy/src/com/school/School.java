@@ -59,7 +59,7 @@ public class School {
 		student s = new student("Student1 ",24);
 		System.out.println(s);
 		System.out.println(s.sub(20));
-		teacher t = new teacher("Teacher1",110);
+		teacher t = new teacher("Teacher1 ",110);
 		System.out.println(t);
 		System.out.println(t.sub(20, 3));
 		
